@@ -5,7 +5,7 @@ Depuis mon plus jeune âge, une passion profonde et inextinguible pour l'informa
 ### Compétences techniques
 - **Java** : Un langage puissant que j'ai maîtrisé, permettant la création d'applications sophistiquées et fiables.
 - **SQL** : Expertise dans la gestion et la manipulation de bases de données, garantissant une organisation et une utilisation optimales des informations.
-- **HTML** : Connaissance solide de cet outil essentiel pour structurer et concevoir des interfaces web élégantes.
+- **HTML** : Connaissance solide de cet outil essentiel pour structurer et concevoir des interfaces web élégantes et pratiques.
 - **C** : Familiarité avec ce langage fondamental, offrant une compréhension approfondie des mécanismes informatiques.
 
 ### Un engagement pour l'excellence
