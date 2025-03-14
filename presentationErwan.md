@@ -13,3 +13,5 @@ En dehors de mes études, je suis également intéressé par :
 - Les jeux vidéo et le développement de jeux indépendants.
 
 Je suis enthousiaste à l'idée de partager mes connaissances et de collaborer sur des projets passionnants !
+
+merci
