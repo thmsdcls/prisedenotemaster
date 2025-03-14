@@ -21,5 +21,5 @@ Le langage **C** est l’un des langages de programmation les plus influents et 
 Le langage C continue d’être un pilier incontournable de l'informatique, apprécié autant pour sa robustesse que pour sa polyvalence.
 
 ### Nos professeurs :
--Yahn Formanczak.
--Pascal Sotin.
+- Yahn Formanczak.
+- Pascal Sotin.
